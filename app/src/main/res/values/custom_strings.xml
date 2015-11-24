@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="custom_text_park_name">名字: %s</string>
+	<string name="custom_text_landscape_name">性別: %s</string>
+	<string name="custom_text_open_time">型態: %s</string>
+	<string name="custom_text_intro">原因: %s</string>
+</resources>
